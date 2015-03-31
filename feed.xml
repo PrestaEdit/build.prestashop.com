@@ -5,8 +5,8 @@
     <description>Official blog for PrestaShop development straight from the core dev team.</description>
     <link>http://prestashop.github.io/build.prestashop.com/</link>
     <atom:link href="http://prestashop.github.io/build.prestashop.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Mar 2015 14:26:30 +0100</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2015 14:26:30 +0100</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2015 15:51:06 +0200</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2015 15:51:06 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -59,8 +59,8 @@ As last week’s Core Weekly, I’ll highlight some of the more important happen
 It’s the second edition of Core Weekly, so if you have suggestions or see anything that I missed, please comment!&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Mar 2015 15:14:47 +0100</pubDate>
-        <link>http://prestashop.github.io/build.prestashop.com/news/prestashop-core-weekly-week-10%20-%20copie/</link>
-        <guid isPermaLink="true">http://prestashop.github.io/build.prestashop.com/news/prestashop-core-weekly-week-10%20-%20copie/</guid>
+        <link>http://prestashop.github.io/build.prestashop.com/news/prestashop-core-weekly-week-10/</link>
+        <guid isPermaLink="true">http://prestashop.github.io/build.prestashop.com/news/prestashop-core-weekly-week-10/</guid>
         
         <category>core-weekly</category>
         
